@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-frontcover.jpg</string>
+			<key>name</key>
+			<string>Front Cover</string>
+			<key>type</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-topvintageshops.jpg</string>
+			<key>name</key>
+			<string>London&apos;s Best Vintage</string>
+			<key>type</key>
+			<string>article</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-dosanddonts.jpg</string>
+			<key>name</key>
+			<string>Do&apos;s and Don&apos;ts of wearing vintage</string>
+			<key>type</key>
+			<string>article</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-explorelondon.jpg</string>
+			<key>name</key>
+			<string>Explore London</string>
+			<key>type</key>
+			<string>feature</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-interview1.jpg</string>
+			<key>name</key>
+			<string>Enjoy the Capital - Emma</string>
+			<key>type</key>
+			<string>interview</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-interview2.jpg</string>
+			<key>name</key>
+			<string>Vintage Guide - Katie</string>
+			<key>type</key>
+			<string>interview</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-inspiration.jpg</string>
+			<key>name</key>
+			<string>Winter Lookbook</string>
+			<key>type</key>
+			<string>interview</string>
+		</dict>
+		<dict>
+			<key>image</key>
+			<string>pagepreview-feedback.jpg</string>
+			<key>name</key>
+			<string>Feedback</string>
+			<key>type</key>
+			<string>feedback</string>
+		</dict>
+	</array>
+</dict>
+</plist>

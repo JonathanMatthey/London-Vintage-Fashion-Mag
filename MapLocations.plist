@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charity shops</key>
+	<array>
+		<dict>
+			<key>address</key>
+			<string>1 Lichfield Terrace, Richmond, TW9 1AS</string>
+			<key>description</key>
+			<string>A must if you’re after designer labels. It’s previously stocked Chloé, Prada and Gucci so you may well find a hidden gem. There’s also always a great selection of designer accessories, including Mulberry handbags in near mint condition. Look out for good quality bric-a-brac as well.</string>
+			<key>image</key>
+			<string>charity-mariecurie.jpg</string>
+			<key>latitude</key>
+			<real>51.4616371</real>
+			<key>longitude</key>
+			<real>-0.2999806</real>
+			<key>name</key>
+			<string>Marie Curie Cancer Care, Richmond</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>211 Brompton Rd, SW3 2ED </string>
+			<key>description</key>
+			<string>A large, slightly austere space packed with designer donations from wealthy locals. Plus a &apos;brilliant&apos; hushed vintage book department with oriental rugs and coffee tables covered in art periodicals and old Christie’s catalogues.</string>
+			<key>image</key>
+			<string>charity-octavia.jpg</string>
+			<key>latitude</key>
+			<real>51.4974743</real>
+			<key>longitude</key>
+			<real>-0.1675223</real>
+			<key>name</key>
+			<string>Octavia Foundation</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>67 Old Church St, SW3 5BS</string>
+			<key>description</key>
+			<string>Couture cast-offs, big-label handbags and Manolo Blahniks are presented beautifully on an airy, uncluttered shop floor, flooded with natural light.
+Mary&apos;s verdict ‘It’s where a shop is based that’s the key. Just look at the incredible donations in here - you wouldn’t get this in Orpington.&apos;</string>
+			<key>image</key>
+			<string>charity-britishredcrosschelsea.jpg</string>
+			<key>latitude</key>
+			<real>51.486367</real>
+			<key>longitude</key>
+			<real>-0.1734023</real>
+			<key>name</key>
+			<string>British Red Cross, Chelsea</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>19 Churton St, SW1V 2LY </string>
+			<key>description</key>
+			<string>Crusaid’s tiny Pimlico store, lit with fairy lights and an antique chandelier, is a real find. Nicole Farhi and Designer Warehouse Sale’s Roger Walker-Dack regularly donate unworn stock, alongside Urban Outfitters, Ralph Lauren and Hackett (often dropped off by the Hackett family themselves). Stock is perfectly merchandised in two rooms packed with on-trend designerwear and handpicked bric-a-brac.</string>
+			<key>image</key>
+			<string>charity-crusaid.jpg</string>
+			<key>latitude</key>
+			<real>51.4916972</real>
+			<key>longitude</key>
+			<real>-0.13873</real>
+			<key>name</key>
+			<string>Crusaid, Pimlico</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>85 Ebury St, SW1W 9QU</string>
+			<key>description</key>
+			<string>This branch is packed with designer labels thanks to donations from wealthy locals. Brands currently in stock include Prada, Armani, Dolce &amp; Gabbana and Christian Dior, plus Manolo Blahnik shoes. A selection of bric-a-brac, handbags and hats are also up for grabs alongside a range of ballgowns.</string>
+			<key>image</key>
+			<string>charity-britishredcrossvictoria.jpg</string>
+			<key>latitude</key>
+			<real>51.4910961</real>
+			<key>longitude</key>
+			<real>-0.1526653</real>
+			<key>name</key>
+			<string>British Red Cross, Victoria</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>24 Marylebone High St, W1U 5RB </string>
+			<key>description</key>
+			<string>A high-quality selection of fashion and accessories, many of them in mint condition, can be found here. The shoes are particularly noteworthy.</string>
+			<key>image</key>
+			<string>charity-cancerresearchukmarylebone.jpg</string>
+			<key>latitude</key>
+			<real>51.5200151</real>
+			<key>longitude</key>
+			<real>-0.1517842</real>
+			<key>name</key>
+			<string>Cancer Research UK, Marylebone</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>40 Upper Tachbrook St, SW1V 2JS</string>
+			<key>description</key>
+			<string>A small shop with an overbearingly pushy shopkeeper (don’t let that put you off) selling goods in aid of Romanian children. It specialises in an excellent range of kids’ and baby wear along with prams and buggies at bargain prices. There are two other Fara branches, including Retro Mania at 6 Tachbrook Street.</string>
+			<key>image</key>
+			<string>charity-fara.jpg</string>
+			<key>latitude</key>
+			<real>51.4925773</real>
+			<key>longitude</key>
+			<real>-0.1389652</real>
+			<key>name</key>
+			<string>Fara</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>34 Upper St, N1 0PN</string>
+			<key>description</key>
+			<string>A treasure trove of clothing, accessories and general bric-a-brac where you might even find the odd antique. Clothing ranges from designer labels, including recent Hugo Boss and Moschino, to cheaper high-street items, all still in good condition.</string>
+			<key>image</key>
+			<string>charity-cancerresearchukislington.jpg</string>
+			<key>latitude</key>
+			<real>51.5345928</real>
+			<key>longitude</key>
+			<real>-0.1049174</real>
+			<key>name</key>
+			<string>Cancer Research UK, Islington</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Princes St, W1B 2LQ </string>
+			<key>description</key>
+			<string>Two floors of sublime thrift. On the ground floor you can find brilliant shoes, including designer labels like Charles Jourdan, and great old ladies’ sandals. There are lots of faux-fur jackets, an abundance of 1970s dresses and skirts, and a fine selection of second-hand denim. Upstairs is a little more boutiquey, with luxurious finds such as floor-length fake-fur coats and glam evening bags - the latter can be snapped up for less than a tenner.</string>
+			<key>image</key>
+			<string>charity-salvationarmy.jpg</string>
+			<key>latitude</key>
+			<real>51.5146207</real>
+			<key>longitude</key>
+			<real>-0.143109</real>
+			<key>name</key>
+			<string>Salvation Army</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>414 Brixton Rd, SW9 7AY</string>
+			<key>description</key>
+			<string>A vast and lively charity shop with an exciting, unpredictable mix of clothes and accessories, stocking all kinds of high-street brands with designer bargains going for no more than £50. The sales lady will probably give you fashion tips as she used to work at Browns.</string>
+			<key>image</key>
+			<string>charity-bernadosbrixton.jpg</string>
+			<key>latitude</key>
+			<real>51.4622149</real>
+			<key>longitude</key>
+			<real>-0.1151323</real>
+			<key>name</key>
+			<string>Barnardo’s, Brixton</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>184 Balham High Rd, SW12 9BW </string>
+			<key>description</key>
+			<string>This clean (it reeks of Mr Sheen) and brightly lit branch sells a good selection of high-street and mid-range brands at very good prices. The shoes and jeans are well worth a look here. They’re all sold alongside a range of new, cheaply priced accessories, including necklaces, earrings and hairbands from £1.99.</string>
+			<key>image</key>
+			<string>charity-britishheartfoundation.jpg</string>
+			<key>latitude</key>
+			<real>51.4418343</real>
+			<key>longitude</key>
+			<real>-0.1541893</real>
+			<key>name</key>
+			<string>British Heart Foundation, Balham</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>514-518, Kingsland Rd, E8 4AH</string>
+			<key>description</key>
+			<string>This branch of Oxfam used to be a cinema in the 1950s, which accounts for its ample floor space. Men’s and women’s clothing, books, records and homewares are all up for grabs with the average garment priced at a modest £2.79. There’s a huge choice with a hotchpotch of serviceable separates, dresses and curios, plus decent plates, teapots and the like, as well as grander pieces such as suits, ballgowns and wedding dresses in the mêlée. </string>
+			<key>image</key>
+			<string>charity-oxfamdalston.jpg</string>
+			<key>latitude</key>
+			<real>51.5442923</real>
+			<key>longitude</key>
+			<real>-0.0760174</real>
+			<key>name</key>
+			<string>Oxfam, Dalston</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>61 Westbourne Grove, W2 4UA</string>
+			<key>description</key>
+			<string>A favourite of fashion stylists and journalists alike, and with mentions in Japanese and British Vogue, this is the charity shop to head to for superior secondhand clothing. Raising money for international development, the shop has a small, boutiquey feel, making it a great place to rummage. In particular, check out the vintage section, where you’ll find quirky one-offs. They get some impressive designer pieces: a Burberry coat recently sold for £69. There’s also its renowned remade clothing to look out for.</string>
+			<key>image</key>
+			<string>charity-traid.jpg</string>
+			<key>latitude</key>
+			<real>51.5153982</real>
+			<key>longitude</key>
+			<real>-0.191948</real>
+			<key>name</key>
+			<string>Traid, Westbourne Grove</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>31 Kensington Church St, W8 4LL</string>
+			<key>description</key>
+			<string>Revered for its ladies’ clothing and accessories, this is a great charity shop where you’re bound to unearth designer pieces. They’re currently stocking Dries Van Noten and last week staff sold a beautiful Louis Vuitton handbag for £50. There’s always a good selection of well-known designer handbags and shoes.</string>
+			<key>image</key>
+			<string>charity-trinityhospice.jpg</string>
+			<key>latitude</key>
+			<real>51.5038884</real>
+			<key>longitude</key>
+			<real>-0.192046</real>
+			<key>name</key>
+			<string>Trinity Hospice, Kensington</string>
+		</dict>
+	</array>
+	<key>vintage shops</key>
+	<array>
+		<dict>
+			<key>address</key>
+			<string>13-25 Church Street, London NW8 8DT</string>
+			<key>description</key>
+			<string>London’s largest indoor market is a treasure trove of antique and vintage clothes, collectables and 20th century design pieces. Any serious vintage-lover will adore spending hours browsing through the market’s 600 stalls crammed with everything from rare vintage finds to colourful baubles. Alfie’s Antique Market is also great for gifts.   </string>
+			<key>image</key>
+			<string>alfie-antique-market.jpg</string>
+			<key>latitude</key>
+			<real>51.5240241</real>
+			<key>longitude</key>
+			<real>-0.1694035</real>
+			<key>name</key>
+			<string>Alfie’s Antique Market </string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>51 Endell Street, London WC2H 9HJ</string>
+			<key>description</key>
+			<string>Blackout II has been trading in Covent Garden for nearly two decades, and you’ll benefit from the staff members’ extensive knowledge of all things vintage. The well-stocked shop is set over two floors and sells both men’s and women’s gear from the 1920s up to the 1980s.</string>
+			<key>image</key>
+			<string>blackout.jpg</string>
+			<key>latitude</key>
+			<real>51.5148873</real>
+			<key>longitude</key>
+			<real>-0.1251244</real>
+			<key>name</key>
+			<string>Blackout II</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>98 Portland Road, Holland Park, London, W11 4LQ</string>
+			<key>description</key>
+			<string>Virginia’s Antiques specialises in rare vintage (with very high price tags). This exquisite Holland Park shop is tiny but crammed with beautiful pieces including crisp Victorian nighties, glittering 1920s flapper dresses and delicate silk slippers. The shop’s eccentric owner and Vogue blogger Virginia Bates is regularly seen at London fashion parties wearing amazing vintage creations.</string>
+			<key>image</key>
+			<string>virginias-antiques.jpg</string>
+			<key>latitude</key>
+			<real>51.5100442</real>
+			<key>longitude</key>
+			<real>-0.2103004</real>
+			<key>name</key>
+			<string>Virginia’s Antiques</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>10 Kings Street, Covent Garden,WC2E 8HN</string>
+			<key>description</key>
+			<string>Lucy in Disguise (with diamonds?) is a vintage clothing store and beauty parlour in the heart of Covent Garden. Founded by pop princess Lily Allen and her sister Sarah Owen, here you’ll find pieces worn by and given to the star, as well as loads of other carefully selected pieces that fit the funky Lily aesthetic. </string>
+			<key>image</key>
+			<string>lucy-in-disguise.jpg</string>
+			<key>latitude</key>
+			<real>51.5116908</real>
+			<key>longitude</key>
+			<real>-0.124355</real>
+			<key>name</key>
+			<string>Lucy in Disguise</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>114 Commercial Street, Shadwell, London E1 6NF</string>
+			<key>description</key>
+			<string>The sister store to clothing barn Absolute Vintage round the corner, Blondie sells chic, desirable pieces by some well-known labels from yesteryear. This is the place to shop for one-off occasion wear and unique accessories. </string>
+			<key>image</key>
+			<string>blondie-boutique.jpg</string>
+			<key>latitude</key>
+			<real>51.520305</real>
+			<key>longitude</key>
+			<real>-0.0744688</real>
+			<key>name</key>
+			<string>Blondie Boutique</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>67 Gloucester Avenue, Primrose Hill, London, NW1 8LD</string>
+			<key>description</key>
+			<string>Shikasuki is the place for high-end vintage in Primrose Hill. Enter on ground level to find quirky homewares and stationery, then head downstairs to the vintage treasure trove below! Shikasuki specialises in Ossie Clark originals but you’ll also find labels such as Jean Varon, Zandra Rhodes, Biba and more, as well as more affordable vintage clothes, bags, shoes and accessories.</string>
+			<key>image</key>
+			<string>shikasuki.jpg</string>
+			<key>latitude</key>
+			<real>51.5402628</real>
+			<key>longitude</key>
+			<real>-0.1513667</real>
+			<key>name</key>
+			<string>Shikasuki</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>8 Golborne Road, North Kensington, London W10 5NW</string>
+			<key>description</key>
+			<string>A favourite with designers, magazine editors and It girls, Rellik in Golbourne Road has a good range of unique one-off vintage finds. Clothes hang on the walls and the racks are packed with well-sourced and preserved designer couture. Buy an original Westwood and create an outfit from the other good-quality second-hand items ranging from boots to hats</string>
+			<key>image</key>
+			<string>rellik.jpg</string>
+			<key>latitude</key>
+			<real>51.5240858</real>
+			<key>longitude</key>
+			<real>-0.2058759</real>
+			<key>name</key>
+			<string>Rellik</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>6 Monmouth Street, London, WC2H 9HB</string>
+			<key>description</key>
+			<string>Bringing the fashions of the past back to life, Pop Boutique  has a great range of retro and kitsch items from the 1960s, 1970s and 1980s. Keep popping in to the Covent Garden shop see the latest offerings as the stock is updated regularly. Great for a quick party outfit or key vintage piece to bring your wardrobe back to life! </string>
+			<key>image</key>
+			<string>pop-boutique.jpg</string>
+			<key>latitude</key>
+			<real>51.5149553</real>
+			<key>longitude</key>
+			<real>-0.1268553</real>
+			<key>name</key>
+			<string>Pop Boutique</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>253 Portobello Road, Notting Hill, London, W11 1LR</string>
+			<key>description</key>
+			<string>This Portobello Road vintage haven is a favourite with celebs such as Kate Moss, Naomi Campbell and Lindsay Lohan. Find inspiration from old Vivienne Westwood and Yves Saint Laurent clothing so rare that prices head well into the thousands! One Of A Kind also offers more reasonably priced rags, so you’re sure to find something that’s within your budget.</string>
+			<key>image</key>
+			<string>one-of-a-kind.jpg</string>
+			<key>latitude</key>
+			<real>51.5175651</real>
+			<key>longitude</key>
+			<real>-0.206339</real>
+			<key>name</key>
+			<string>One of a Kind </string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>402 – 404 St Johns Street, London. EC1V 4NJ</string>
+			<key>description</key>
+			<string>A visit to My Sugarland in Clerkenwell is an immersive and enjoyable retail experience. Browse the selection of smaller, independent-label designer wear, move on to a rack of desirable vintage clothes, then accessorise! All pieces have been chosen with style and care to help you build a chic wardrobe that combines old school glamour with a modern edge. </string>
+			<key>image</key>
+			<string>mysugarland.jpg</string>
+			<key>latitude</key>
+			<real>51.5225108</real>
+			<key>longitude</key>
+			<real>-0.1032341</real>
+			<key>name</key>
+			<string>My Sugarland</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Cambridge Heath Rd, London, E2 9DA</string>
+			<key>description</key>
+			<string>Laura McAlpine (now defunct Vintroville) and furniture designer Omid Asghari are behind this sleek outlet. Together, they look to source wearable vintage (that means no fancy dress prom dresses) from across Europe and make regular visits to Berlin, Milan and Paris to handpick their women’s and menswear.</string>
+			<key>image</key>
+			<string>frockney-rebel-vintage.jpg</string>
+			<key>latitude</key>
+			<real>51.5270563</real>
+			<key>longitude</key>
+			<real>-0.055537</real>
+			<key>name</key>
+			<string>Frockney Rebel Vintage</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Stoke Newington Church St, London, N16 0UH</string>
+			<key>description</key>
+			<string>Something of a local secret, Little Pad can be found in the basement space below Stokey’s secondhand record store, Lucky Seven. You’ll feel in the know as you head past the stacks of tempting vinyl on the ground floor and down a narrow staircase to the subterranean boutique.</string>
+			<key>image</key>
+			<string>little-pad.jpg</string>
+			<key>latitude</key>
+			<real>51.5612551</real>
+			<key>longitude</key>
+			<real>-0.0827184</real>
+			<key>name</key>
+			<string>Little Pad</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Kingsland Rd, London, E8 4DG</string>
+			<key>description</key>
+			<string>A collective of individual vendors make up this eclectic, comfortably shabby store that’s tucked away on the corner of Kingsland Road and Dunston Road. Each seller peddles something different, so you get furniture, kitsch art, books, bags, bric-a-brac and rails of clothes. The latter collection tends to toward the eccentric side of vintage and shines for its outrageous pieces from the ‘80s and ’90s as well as colourful numbers from further back. </string>
+			<key>image</key>
+			<string>pattern-market.jpg</string>
+			<key>latitude</key>
+			<real>51.5373408</real>
+			<key>longitude</key>
+			<real>-0.0768409</real>
+			<key>name</key>
+			<string>The Pattern Market</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Ganton St, London, W1F 7QL</string>
+			<key>description</key>
+			<string>This central London boutique is headed up by the founders of Topshop’s long-loved Peekaboo vintage concession, Emily Bothwell and Michael Caunter. From this central London base the pair look to move away from the colourful, secondhand party garb that made them so popular in Topshop and focus on the more grown up, exclusive side of vintage.</string>
+			<key>image</key>
+			<string>peekaboo.jpg</string>
+			<key>latitude</key>
+			<real>51.5131156</real>
+			<key>longitude</key>
+			<real>-0.1387825</real>
+			<key>name</key>
+			<string>Peekaboo</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>1st Floor, Whiteleys Shopping Centre, London, W2 4YN</string>
+			<key>description</key>
+			<string>Fans of online vintage store Victory Vintage will love its roomy boutique in West London’s long-running shopping centre, Whiteleys. Originally set up by Zoe Plummer (who you may remember as a star of 2010’s ‘Junior Apprentice’) and her sister Rebecca, Victory Vintage stocks choice retro garb, handpicked dresses, furs, shoes and accessories.</string>
+			<key>image</key>
+			<string>victory-vintage.jpg</string>
+			<key>latitude</key>
+			<real>51.4959145</real>
+			<key>longitude</key>
+			<real>-0.1763664</real>
+			<key>name</key>
+			<string>Victory Vintage</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Marylebone St, London, W1G 8JQ</string>
+			<key>description</key>
+			<string>Used as an expert voice on all things style, from wearing vintage with panache to dressing for the Oscars, former interior designer William Banks-Blaney is in demand. His advice comes by appointment only at this Marylebone boutique – a space he opened in November 2010 after his monthly fashion fairs became wildly over subscribed – and the two-floor store is a Mecca for haute couture lovers.</string>
+			<key>image</key>
+			<string>william-vintage.jpg</string>
+			<key>latitude</key>
+			<real>51.5189211</real>
+			<key>longitude</key>
+			<real>-0.1506311</real>
+			<key>name</key>
+			<string>William Vintage</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Berwick St, London, W1F 8TL</string>
+			<key>description</key>
+			<string>A mini-vintage enclave has long been bubbling in Soho with a clutch of secondhand boutiques attracted to its boho charm and central location. Absolute Vintage is among the clan with an outpost at the epicenter of the trend, Berwick Street. Moving away from the ramshackle, bursting at the seams, colour-edited styling of its Hanbury Street branch, the store serves up a whittled down selection of retro handbags, shoes and clothes. </string>
+			<key>image</key>
+			<string>absolute-vintage.jpg</string>
+			<key>latitude</key>
+			<real>51.51418</real>
+			<key>longitude</key>
+			<real>-0.13544</real>
+			<key>name</key>
+			<string>Absolute Vintage Boutique</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Blitz, Hanbury Street, London, E1 5JP</string>
+			<key>description</key>
+			<string>This colossal new vintage emporium off Brick Lane is the joint project of a number of established second-hand dealers. Broadway Market&apos;s Dog and Wardrobe supply stylish furniture and homewares, while vintage fashion fanatics John and Jan fill two floors with on-trend clothing in excellent nick.</string>
+			<key>image</key>
+			<string>blitz.jpg</string>
+			<key>latitude</key>
+			<real>51.52051</real>
+			<key>longitude</key>
+			<real>-0.07103</real>
+			<key>name</key>
+			<string>Blitz</string>
+		</dict>
+		<dict>
+			<key>address</key>
+			<string>Camden Passage, London, N1 8ED</string>
+			<key>description</key>
+			<string>Part hair salon, part boutique, Diamond Dolls is a sleek little retro number in Angel. The brainchild of vintage hair stylist Sherri Liberator and designer Sarah Poxton, Diamond Dolls brings together an affordable hair menu with a brief selection of seductive secondhand clothes and indie-designer pieces. </string>
+			<key>image</key>
+			<string>diamond-dolls.jpg</string>
+			<key>latitude</key>
+			<real>51.53503</real>
+			<key>longitude</key>
+			<real>-0.103564</real>
+			<key>name</key>
+			<string>Diamond Dolls</string>
+		</dict>
+	</array>
+</dict>
+</plist>
